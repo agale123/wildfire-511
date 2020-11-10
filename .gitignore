@@ -1,2 +1,6 @@
+# Data files maybe too big for github
 data/*
 data_raw/*
+
+# Ignore notebook checkpoints - all directories
+**/*.ipynb_checkpoints/
